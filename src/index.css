@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background: #161513;
+    color: white;
+    font-family: 'outfit';
+}
+
+h6{
+    background-color: rgba(35, 108, 107, 0.74);
+}
