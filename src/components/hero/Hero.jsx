@@ -1,11 +1,11 @@
 import React from "react";
-import "./Hero.css";
 import profile_img from "../../assets/profile_img.jpg";
+import "./Hero.css";
 
 function Hero() {
   let handleResume = () => {
     const resumeUrl =
-      "https://drive.google.com/file/d/1jWaB8_cINhqmUEhhK_t5QykVf-yB0ahv/view?usp=drive_link";
+      "https://drive.google.com/file/d/1BB_4klbEVMhgGrNf5_FUsfHcmAoHvZ-r/view?usp=drive_link";
     const link = document.createElement("a");
     link.href = resumeUrl;
     link.download = "PriyaResume.pdf";
