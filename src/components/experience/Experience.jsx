@@ -1,7 +1,7 @@
 import React from "react";
-import styled from "styled-components";
 import { VerticalTimeline } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
+import styled from "styled-components";
 import ExperienceCard from "./ExperienceCard";
 
 const experiences = [
@@ -11,7 +11,7 @@ const experiences = [
     role: "System Engineer Trainee",
     company: "Infosys Limited",
     date: "Aug 2022 - Feb 2023",
-    desc: "During my Six-month Tenure as an System Engineer Trainee at Infosys Limited in Mysore, I gained proficiency in Front end web development.",
+    desc: "During my Tenure as an System Engineer Trainee at Infosys Limited in Mysore, I gained proficiency in Front end web development.",
     skills: ["JavaScript", "MySQL", "React"],
     doc: " ",
   },
